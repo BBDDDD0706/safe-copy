@@ -12,12 +12,10 @@
 
 빌드 과정 없는 정적 사이트입니다. `index.html`을 브라우저로 열면 바로 동작합니다.
 
-## 배포 (Vercel)
+## 배포 (GitHub Pages)
 
-1. vercel.com에서 GitHub로 로그인
-2. Add New → Project → `safe-copy` 저장소 Import → Deploy
-3. 배포 주소가 `safe-copy.vercel.app`이 아니거나 도메인을 연결했다면
-   `index.html`, `guide.html`, `privacy.html`의 canonical 주소와 `sitemap.xml`, `robots.txt`의 주소를 바꿔 주세요.
+`main` 브랜치에 푸시하면 https://bbdddd0706.github.io/safe-copy/ 에 자동 반영됩니다.
+도메인을 연결하면 HTML 3개의 canonical 주소와 `sitemap.xml`, `robots.txt`의 주소를 바꿔 주세요.
 
 ## 광고 달기 전 할 일
 

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://safe-copy.vercel.app/sitemap.xml
+Sitemap: https://bbdddd0706.github.io/safe-copy/sitemap.xml
